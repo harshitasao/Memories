@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1d9c05ed.css","mappings":"AAAA,KACI,8CAAgE,CAChE,2BAA4B,CAC5B,qBACJ","sources":["index.css"],"sourcesContent":["body{   \r\n    background: linear-gradient(to bottom, #000066 0%, #66ffff 100%);\r\n    background-attachment: fixed;\r\n    background-size: cover;\r\n}"],"names":[],"sourceRoot":""}
